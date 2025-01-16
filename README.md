@@ -1,0 +1,1 @@
+A Python-based interactive savings distribution tool that helps users plan their daily savings effectively. Features include flexible input formats (e.g., 5k, 1Lakh), customizable saving periods, and intelligent constraints for daily amounts. Supports savings in hundreds, thousands, lakhs, and millions, with validations for realistic and divisible-by-5 distributions.
